@@ -1,1 +1,5 @@
-alert("Hello");
+function hallo(){
+    console.log("Hallo");
+}
+
+hallo();
