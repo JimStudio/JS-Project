@@ -3,3 +3,9 @@ function hallo(){
 }
 
 hallo();
+
+const hi = function(){
+    console.log("Hallo");
+}
+
+hi();
